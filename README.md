@@ -1,1 +1,21 @@
-# Algorithm-Archive
+# 💡 Algorithm-Archive
+
+> 每日刷题记录，包含多个平台的代码实现。
+
+---
+
+## 🔗 各平台主页
+
+* **Codeforces**: [h2696791698](https://codeforces.com/profile/h2696791698)
+* **力扣 (LeetCode)**: [Houning](https://leetcode.cn/u/h2696791698/)
+* **洛谷 (LuoGu)**: [h2696791698](https://www.luogu.com.cn/user/921637)
+* **牛客 (Nowcoder)**: [Houning](https://www.nowcoder.com/users/200595559)
+
+---
+
+## 📂 目录结构
+
+* `/LeetCode`: 力扣代码
+* `/Codeforces`: Codeforces代码
+* `/LuoGu`: 洛谷代码
+* `/Templates`: 常用算法模板 (准备中...)
