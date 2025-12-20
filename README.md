@@ -6,10 +6,10 @@
 
 ## 🔗 各平台主页
 
-* **Codeforces**: [h2696791698](https://codeforces.com/profile/h2696791698)
-* **力扣 (LeetCode)**: [h2696791698](https://leetcode.cn/u/h2696791698/)
-* **洛谷 (LuoGu)**: [h2696791698](https://www.luogu.com.cn/user/921637)
-* **牛客 (Nowcoder)**: [h2696791698](https://www.nowcoder.com/users/200595559)
+* **Codeforces**: [链接](https://codeforces.com/profile/h2696791698)
+* **力扣 (LeetCode)**: [链接](https://leetcode.cn/u/h2696791698/)
+* **洛谷 (LuoGu)**: [链接](https://www.luogu.com.cn/user/921637)
+* **牛客 (Nowcoder)**: [链接](https://www.nowcoder.com/users/200595559)
 
 ---
 
